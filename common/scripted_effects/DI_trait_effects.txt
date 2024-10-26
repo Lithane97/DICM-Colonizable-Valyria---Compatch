@@ -1,0 +1,202 @@
+﻿DI_add_trait_xp = {
+    switch = {
+        trigger = $TRACK$
+
+        flag:Bow = {
+            add_trait_xp = {
+                trait = $TRAIT$
+                track = bow
+                value = $VALUE$
+            }
+        }
+        flag:Foot = {
+            add_trait_xp = {
+                trait = $TRAIT$
+                track = foot
+                value = $VALUE$
+            }
+        }
+        flag:Horse = {
+            add_trait_xp = {
+                trait = $TRAIT$
+                track = horse
+                value = $VALUE$
+            }
+        }
+        flag:Wit = {
+            add_trait_xp = {
+                trait = $TRAIT$
+                track = wit
+                value = $VALUE$
+            }
+        }
+        flag:Wanderer = {
+            add_trait_xp = {
+                trait = $TRAIT$
+                track = travel
+                value = $VALUE$
+            }
+        }
+        flag:Seasoned = {
+            add_trait_xp = {
+                trait = $TRAIT$
+                track = danger
+                value = $VALUE$
+            }
+        }
+        flag:Venator = {
+            add_trait_xp = {
+                trait = $TRAIT$
+                track = hunter
+                value = $VALUE$
+            }
+        }
+        flag:Falconer = {
+            add_trait_xp = {
+                trait = $TRAIT$
+                track = falconer
+                value = $VALUE$
+            }
+        }
+        flag:Bandit = {
+            add_trait_xp = {
+                trait = $TRAIT$
+                track = bandit
+                value = $VALUE$
+            }
+        }
+        flag:Trickster = {
+            add_trait_xp = {
+                trait = $TRAIT$
+                track = trickster
+                value = $VALUE$
+            }
+        }
+        flag:Thief = {
+            add_trait_xp = {
+                trait = $TRAIT$
+                track = thief
+                value = $VALUE$
+            }
+        }
+        flag:Poacher = {
+            add_trait_xp = {
+                trait = $TRAIT$
+                track = poacher
+                value = $VALUE$
+            }
+        }
+        flag:Marauder = {
+            add_trait_xp = {
+                trait = $TRAIT$
+                track = marauder
+                value = $VALUE$
+            }
+        }
+		flag:esr_popular_among_peers = {
+			add_trait_xp = {
+				trait = $TRAIT$
+				track = esr_popular_among_peers
+				value = $VALUE$
+			}
+		}
+		flag:esr_well_connected = {
+			add_trait_xp = {
+				trait = $TRAIT$
+				track = esr_well_connected
+				value = $VALUE$
+			}
+		}
+		flag:esr_friends_in_high_places = {
+			add_trait_xp = {
+				trait = $TRAIT$
+				track = esr_friends_in_high_places
+				value = $VALUE$
+			}
+		}
+		flag:esr_social_pariah = {
+			add_trait_xp = {
+				trait = $TRAIT$
+				track = esr_social_pariah
+				value = $VALUE$
+			}
+		}
+		flag:dragon_training = {
+			add_trait_xp = {
+				trait = $TRAIT$
+				track = dragon_training
+				value = $VALUE$
+			}
+		}
+		flag:dragon_bond = {
+			add_trait_xp = {
+				trait = $TRAIT$
+				track = dragon_bond
+				value = $VALUE$
+			}
+		}
+        flag:secrets_of_the_higher_mysteries = {
+            add_trait_xp = {
+                trait = $TRAIT$
+                track = secrets_of_the_higher_mysteries
+                value = $VALUE$
+            }
+        }
+        flag:blood_magic = {
+            add_trait_xp = {
+                trait = $TRAIT$
+                track = blood_magic
+                value = $VALUE$
+            }
+        }
+        flag:shadow_magic = {
+            add_trait_xp = {
+                trait = $TRAIT$
+                track = shadow_magic
+                value = $VALUE$
+            }
+        }
+        flag:dream_magic = {
+            add_trait_xp = {
+                trait = $TRAIT$
+                track = dream_magic
+                value = $VALUE$
+            }
+        }
+        flag:alchemy_magic = {
+            add_trait_xp = {
+                trait = $TRAIT$
+                track = alchemy_magic
+                value = $VALUE$
+            }
+        }
+        flag:fire_magic = {
+            add_trait_xp = {
+                trait = $TRAIT$
+                track = fire_magic
+                value = $VALUE$
+            }
+        }
+        flag:air_magic = {
+            add_trait_xp = {
+                trait = $TRAIT$
+                track = air_magic
+                value = $VALUE$
+            }
+        }
+        flag:water_magic = {
+            add_trait_xp = {
+                trait = $TRAIT$
+                track = water_magic
+                value = $VALUE$
+            }
+        }
+        flag:drops_of_power = {
+            add_trait_xp = {
+                trait = $TRAIT$
+                track = drops_of_power
+                value = $VALUE$
+            }
+        }
+    }
+}

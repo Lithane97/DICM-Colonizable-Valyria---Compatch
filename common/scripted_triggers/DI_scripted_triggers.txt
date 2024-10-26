@@ -1,0 +1,32 @@
+﻿DI_trait_track_check = {
+    OR = {
+        scope:track = flag:Wanderer
+        scope:track = flag:Seasoned
+        scope:track = flag:Foot
+        scope:track = flag:Bow
+        scope:track = flag:Horse
+        scope:track = flag:Wit
+        scope:track = flag:Venator
+        scope:track = flag:Falconer
+        scope:track = flag:Bandit
+        scope:track = flag:Trickster
+        scope:track = flag:Thief
+        scope:track = flag:Poacher
+        scope:track = flag:Marauder
+        scope:track = flag:esr_popular_among_peers
+        scope:track = flag:esr_well_connected
+        scope:track = flag:esr_friends_in_high_places
+        scope:track = flag:esr_social_pariah
+        scope:track = flag:dragon_training
+        scope:track = flag:dragon_bond
+        scope:track = flag:secrets_of_the_higher_mysteries
+        scope:track = flag:blood_magic
+        scope:track = flag:shadow_magic
+        scope:track = flag:dream_magic
+        scope:track = flag:alchemy_magic
+        scope:track = flag:fire_magic
+        scope:track = flag:air_magic
+        scope:track = flag:water_magic
+        scope:track = flag:drops_of_power
+    }
+}
