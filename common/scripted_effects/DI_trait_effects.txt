@@ -198,5 +198,245 @@
                 value = $VALUE$
             }
         }
+        flag:chosen_of_the_heavens = {
+            add_trait_xp = {
+                trait = $TRAIT$
+                track = chosen_of_the_heavens
+                value = $VALUE$
+            }
+        }
+        flag:stores_of_power = {
+            add_trait_xp = {
+                trait = $TRAIT$
+                track = stores_of_power_01
+                value = $VALUE$
+            }
+            add_trait_xp = {
+                trait = $TRAIT$
+                track = stores_of_power_02
+                value = $VALUE$
+            }
+            add_trait_xp = {
+                trait = $TRAIT$
+                track = stores_of_power_03
+                value = $VALUE$
+            }
+            add_trait_xp = {
+                trait = $TRAIT$
+                track = stores_of_power_04
+                value = $VALUE$
+            }
+            add_trait_xp = {
+                trait = $TRAIT$
+                track = stores_of_power_05
+                value = $VALUE$
+            }
+            add_trait_xp = {
+                trait = $TRAIT$
+                track = stores_of_power_06
+                value = $VALUE$
+            }
+            add_trait_xp = {
+                trait = $TRAIT$
+                track = stores_of_power_07
+                value = $VALUE$
+            }
+            add_trait_xp = {
+                trait = $TRAIT$
+                track = stores_of_power_08
+                value = $VALUE$
+            }
+            add_trait_xp = {
+                trait = $TRAIT$
+                track = stores_of_power_09
+                value = $VALUE$
+            }
+            add_trait_xp = {
+                trait = $TRAIT$
+                track = stores_of_power_10
+                value = $VALUE$
+            }
+        }
+        # # stores_of_power_01
+        # flag:stores_of_power_01 = {
+        #     add_trait_xp = {
+        #         trait = $TRAIT$
+        #         track = stores_of_power_01
+        #         value = $VALUE$
+        #     }
+        # }
+
+        # # stores_of_power_02
+        # flag:stores_of_power_02 = {
+        #     add_trait_xp = {
+        #         trait = $TRAIT$
+        #         track = stores_of_power_02
+        #         value = $VALUE$
+        #     }
+        # }
+
+        # # stores_of_power_03
+        # flag:stores_of_power_03 = {
+        #     add_trait_xp = {
+        #         trait = $TRAIT$
+        #         track = stores_of_power_03
+        #         value = $VALUE$
+        #     }
+        # }
+
+        # # stores_of_power_04
+        # flag:stores_of_power_04 = {
+        #     add_trait_xp = {
+        #         trait = $TRAIT$
+        #         track = stores_of_power_04
+        #         value = $VALUE$
+        #     }
+        # }
+
+        # # stores_of_power_05
+        # flag:stores_of_power_05 = {
+        #     add_trait_xp = {
+        #         trait = $TRAIT$
+        #         track = stores_of_power_05
+        #         value = $VALUE$
+        #     }
+        # }
+
+        # # stores_of_power_06
+        # flag:stores_of_power_06 = {
+        #     add_trait_xp = {
+        #         trait = $TRAIT$
+        #         track = stores_of_power_06
+        #         value = $VALUE$
+        #     }
+        # }
+
+        # # stores_of_power_07
+        # flag:stores_of_power_07 = {
+        #     add_trait_xp = {
+        #         trait = $TRAIT$
+        #         track = stores_of_power_07
+        #         value = $VALUE$
+        #     }
+        # }
+
+        # # stores_of_power_08
+        # flag:stores_of_power_08 = {
+        #     add_trait_xp = {
+        #         trait = $TRAIT$
+        #         track = stores_of_power_08
+        #         value = $VALUE$
+        #     }
+        # }
+
+        # # stores_of_power_09
+        # flag:stores_of_power_09 = {
+        #     add_trait_xp = {
+        #         trait = $TRAIT$
+        #         track = stores_of_power_09
+        #         value = $VALUE$
+        #     }
+        # }
+
+        # # stores_of_power_10
+        # flag:stores_of_power_10 = {
+        #     add_trait_xp = {
+        #         trait = $TRAIT$
+        #         track = stores_of_power_10
+        #         value = $VALUE$
+        #     }
+        # }
+
+        # magic_blood_good_2
+        flag:magic_blood_good_2 = {
+            add_trait_xp = {
+                trait = $TRAIT$
+                track = magic_blood_good_2_stores_of_power_01
+                value = $VALUE$
+            }
+            add_trait_xp = {
+                trait = $TRAIT$
+                track = magic_blood_good_2_stores_of_power_02
+                value = $VALUE$
+            }
+        }
+        
+        # # magic_blood_good_2_stores_of_power_01
+        # flag:magic_blood_good_2_stores_of_power_01 = {
+        #     add_trait_xp = {
+        #         trait = $TRAIT$
+        #         track = magic_blood_good_2_stores_of_power_01
+        #         value = $VALUE$
+        #     }
+        # }
+
+        # # magic_blood_good_2_stores_of_power_02
+        # flag:magic_blood_good_2_stores_of_power_02 = {
+        #     add_trait_xp = {
+        #         trait = $TRAIT$
+        #         track = magic_blood_good_2_stores_of_power_02
+        #         value = $VALUE$
+        #     }
+        # }
+
+        # magic_blood_good_3
+        flag:magic_blood_good_3 = {
+            add_trait_xp = {
+                trait = $TRAIT$
+                track = magic_blood_good_3_stores_of_power_01
+                value = $VALUE$
+            }
+            add_trait_xp = {
+                trait = $TRAIT$
+                track = magic_blood_good_3_stores_of_power_02
+                value = $VALUE$
+            }
+            add_trait_xp = {
+                trait = $TRAIT$
+                track = magic_blood_good_3_stores_of_power_03
+                value = $VALUE$
+            }
+            add_trait_xp = {
+                trait = $TRAIT$
+                track = magic_blood_good_3_stores_of_power_04
+                value = $VALUE$
+            }
+        }
+
+        # # magic_blood_good_3_stores_of_power_01
+        # flag:magic_blood_good_3_stores_of_power_01 = {
+        #     add_trait_xp = {
+        #         trait = $TRAIT$
+        #         track = magic_blood_good_3_stores_of_power_01
+        #         value = $VALUE$
+        #     }
+        # }
+
+        # # magic_blood_good_3_stores_of_power_02
+        # flag:magic_blood_good_3_stores_of_power_02 = {
+        #     add_trait_xp = {
+        #         trait = $TRAIT$
+        #         track = magic_blood_good_3_stores_of_power_02
+        #         value = $VALUE$
+        #     }
+        # }
+
+        # # magic_blood_good_3_stores_of_power_03
+        # flag:magic_blood_good_3_stores_of_power_03 = {
+        #     add_trait_xp = {
+        #         trait = $TRAIT$
+        #         track = magic_blood_good_3_stores_of_power_03
+        #         value = $VALUE$
+        #     }
+        # }
+
+        # # magic_blood_good_3_stores_of_power_04
+        # flag:magic_blood_good_3_stores_of_power_04 = {
+        #     add_trait_xp = {
+        #         trait = $TRAIT$
+        #         track = magic_blood_good_3_stores_of_power_04
+        #         value = $VALUE$
+        #     }
+        # }
     }
 }

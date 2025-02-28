@@ -28,5 +28,26 @@
         scope:track = flag:air_magic
         scope:track = flag:water_magic
         scope:track = flag:drops_of_power
+        scope:track = flag:chosen_of_the_heavens
+        scope:track = flag:stores_of_power
+        scope:track = flag:magic_blood_good_2
+        scope:track = flag:magic_blood_good_3
+        # scope:track = flag:stores_of_power_01
+        # scope:track = flag:stores_of_power_02
+        # scope:track = flag:stores_of_power_03
+        # scope:track = flag:stores_of_power_04
+        # scope:track = flag:stores_of_power_05
+        # scope:track = flag:stores_of_power_06
+        # scope:track = flag:stores_of_power_07
+        # scope:track = flag:stores_of_power_08
+        # scope:track = flag:stores_of_power_09
+        # scope:track = flag:stores_of_power_10
+        # scope:track = flag:magic_blood_good_2_stores_of_power_01
+        # scope:track = flag:magic_blood_good_2_stores_of_power_02
+        # scope:track = flag:magic_blood_good_2_stores_of_power_03
+        # scope:track = flag:magic_blood_good_3_stores_of_power_01
+        # scope:track = flag:magic_blood_good_3_stores_of_power_02
+        # scope:track = flag:magic_blood_good_3_stores_of_power_03
+        # scope:track = flag:magic_blood_good_3_stores_of_power_04
     }
 }
